@@ -2,3 +2,6 @@ pycti==5.1.1
 plyara==2.1.1
 parsuricata==0.1.1
 sigmatools==0.19.1
+idna>=3.7 # not directly required, pinned by Snyk to avoid a vulnerability
+requests>=2.31.0 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
